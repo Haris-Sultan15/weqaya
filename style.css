@@ -169,3 +169,45 @@ a:active {
     width: 24px;
     margin-right: 16px;
 }
+.main-logo {
+    height: 100px;
+    width: 100px;
+}
+
+@media (max-width: 576px) {
+    .service-box {
+        margin-bottom: 1rem;
+    }
+    .choose-box {
+        margin-bottom: 1rem;
+    }
+    .fix-img {
+        width: 100px;
+        height: 100px;
+    }
+    li {
+        line-height: 32px;
+        /* padding-right: 36px; */
+        text-align: justify;
+    }
+    .main-logo {
+        height: 60px;
+        width: 60px;
+    }
+    .hero-section h1 {
+        font-size: 40px;
+        color: #333;
+        text-align: center;
+        font-weight: 700;
+    }
+    .btn {
+        background-color: #C5AE86;
+        color: #44645F;
+        font-weight: 700;  
+        /* float: left !important;    */
+    }
+    .smicon {
+        margin-bottom: 1rem;
+    }
+
+}
