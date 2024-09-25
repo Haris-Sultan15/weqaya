@@ -80,13 +80,13 @@ footer p {
 
 .aboutbox {
 
-    width: 520px;
+    width: 620px;
     background-color: #fff;
     border-radius: 12px;
     padding: 24px 52px;
     align-items: center;
 
-    /* margin-left: 100px; */
+    margin-left: 100px;
 
 }
 
